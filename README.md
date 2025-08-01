@@ -1,7 +1,6 @@
 # JS ESSENTIALS
 
-This repository contains **three beginner-friendly JavaScript projects** that demonstrate **DOM manipulation, event handling, and simple interactive web applications**.  
-Each project is built using **HTML, CSS, and JavaScript**, with a focus on **front-end logic and user interaction**.
+This repository contains **three beginner-friendly JavaScript projects** that demonstrate **DOM manipulation, event handling, and simple interactive web applications**. Each project is built using **HTML, CSS, and JavaScript**, with a focus on **front-end logic and user interaction**.
 
 ---
 
