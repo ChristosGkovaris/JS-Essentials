@@ -54,7 +54,7 @@ These projects are great for **practicing frontend fundamentals** and **event-dr
 js-essentials/
 │── README.md
 │
-├── src/
+└── src/
     ├── login-form
     |   ├── script.js
     │   ├── script.js
