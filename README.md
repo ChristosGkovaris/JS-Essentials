@@ -55,7 +55,7 @@ js-essentials/
 │── README.md
 │
 ├── src/
-    ├── loggin-form
+    ├── login-form
     |   ├── script.js
     │   ├── script.js
     │   └── style.css
